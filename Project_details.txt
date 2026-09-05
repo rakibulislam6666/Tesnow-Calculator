@@ -1,0 +1,7 @@
+Language      : Java
+Calculation   : BigDecimal
+Build System  : Gradle
+Compile SDK   : Android 34
+Build Tools   : 34.0.4
+Android IDE   : AndroidIDE / AIDE-based development
+Architecture  : Native Android
